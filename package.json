@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/MrDawit/Portfolio_react/issues"
   },
-  "homepage": "https://mrdawit.github.io/Portfolio",
+  "homepage": "https://mrdawit.github.io/Portfolio/",
   "dependencies": {
     "@popperjs/core": "^2.11.7",
     "bcryptjs": "^2.4.3",
