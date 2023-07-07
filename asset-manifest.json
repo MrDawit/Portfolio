@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.65218558.css",
-    "main.js": "/Portfolio/static/js/main.298d382e.js",
-    "static/js/496.691e543d.chunk.js": "/Portfolio/static/js/496.691e543d.chunk.js",
+    "main.css": "/Portfolio/static/css/main.4add3091.css",
+    "main.js": "/Portfolio/static/js/main.ef17157a.js",
+    "static/js/496.ebf5cfd0.chunk.js": "/Portfolio/static/js/496.ebf5cfd0.chunk.js",
     "static/media/main.png": "/Portfolio/static/media/main.e1186d16bdf89f13d1dc.png",
     "static/media/modern4.jpg": "/Portfolio/static/media/modern4.2a7ca22ab9f47ff403e3.jpg",
     "static/media/PIC.JPG": "/Portfolio/static/media/PIC.db21812a982424436894.JPG",
@@ -11,7 +11,6 @@
     "static/media/AllUCanBurger.png": "/Portfolio/static/media/AllUCanBurger.86b25cfa55591ffb96eb.png",
     "static/media/covid19_info.png": "/Portfolio/static/media/covid19_info.4cd9d2eda4bacac241bf.png",
     "static/media/WeatherApp.png": "/Portfolio/static/media/WeatherApp.d6d57a2c214b183c2d02.png",
-    "static/media/SHALOM DAWIT Resume.pdf": "/Portfolio/static/media/SHALOM DAWIT Resume.e491477141b42f81a465.pdf",
     "static/media/google_books.png": "/Portfolio/static/media/google_books.ada13964e5b4b3cf0754.png",
     "static/media/MySQL.jpg": "/Portfolio/static/media/MySQL.e1595fa4556259b78529.jpg",
     "static/media/toolshed.png": "/Portfolio/static/media/toolshed.340965e08ba8afd9b6e1.png",
@@ -19,6 +18,7 @@
     "static/media/jQuery.png": "/Portfolio/static/media/jQuery.66108f53b218c72ed50a.png",
     "static/media/Scheduler.png": "/Portfolio/static/media/Scheduler.d9fe63e134f3541d04dc.png",
     "static/media/modern5.jpg": "/Portfolio/static/media/modern5.60dbd9c2270a656187b2.jpg",
+    "static/media/SHALOM DAWIT Resume.pdf": "/Portfolio/static/media/SHALOM DAWIT Resume.d457deaf3e4c46d439e3.pdf",
     "static/media/bladesingertitle.ttf": "/Portfolio/static/media/bladesingertitle.a5c0a1d5b700452188ce.ttf",
     "static/media/bladesinger.ttf": "/Portfolio/static/media/bladesinger.a595973dc423e8ef9138.ttf",
     "static/media/mern.jpg": "/Portfolio/static/media/mern.4c5182e85f32a14cd6e7.jpg",
@@ -28,12 +28,12 @@
     "static/media/React.png": "/Portfolio/static/media/React.5929148ed809850d82fb.png",
     "index.html": "/Portfolio/index.html",
     "static/media/favicon.ico": "/Portfolio/static/media/favicon.2aeb87644848ad07be7c.ico",
-    "main.65218558.css.map": "/Portfolio/static/css/main.65218558.css.map",
-    "main.298d382e.js.map": "/Portfolio/static/js/main.298d382e.js.map",
-    "496.691e543d.chunk.js.map": "/Portfolio/static/js/496.691e543d.chunk.js.map"
+    "main.4add3091.css.map": "/Portfolio/static/css/main.4add3091.css.map",
+    "main.ef17157a.js.map": "/Portfolio/static/js/main.ef17157a.js.map",
+    "496.ebf5cfd0.chunk.js.map": "/Portfolio/static/js/496.ebf5cfd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65218558.css",
-    "static/js/main.298d382e.js"
+    "static/css/main.4add3091.css",
+    "static/js/main.ef17157a.js"
   ]
 }
