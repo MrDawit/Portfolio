@@ -4,11 +4,11 @@
 ![](https://camo.githubusercontent.com/a2e06d523388c52257c599dbc3a629e0af1564a123a662a6c20fbccfdb83d15e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536c61636b2d4530313536333f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/591bad6b337378a164bc0239d9259f266f2ed01d3aa3006c68bef1336731d051/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5f2d4769742d3239326533333f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d666666)
 
-# Portafoglio-react
+# Portfolio
 ![](https://img.shields.io/badge/Made%20with-React-blue)
 ![](https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)   
 
-Deployed Portfolio(with backend server functionality): https://portafoglio-react.herokuapp.com 
+
 Deployed BACKUP Portfolio(without backend server functionality): https://mrdawit.github.io/Portafoglio_react/
 
 ## Table of contents
@@ -37,4 +37,4 @@ My portfolio created using React
 Email: Shalom.Dawit@Gmail.com 
 
 ## Repository
-[Project Repo](https://github.com/MrDawit/Portafoglio_react)
+[Project Repo](https://github.com/MrDawit/Portfolio)
