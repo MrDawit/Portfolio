@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrDawit/Portafoglio_react.git"
+    "url": "git+https://github.com/MrDawit/Portfolio.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/MrDawit/Portafoglio_react/issues"
+    "url": "https://github.com/MrDawit/Portfolio_react/issues"
   },
-  "homepage": "https://mrdawit.github.io/Portfolio/",
+  "homepage": "https://mrdawit.github.io/Portfolio",
   "dependencies": {
     "@popperjs/core": "^2.11.7",
     "bcryptjs": "^2.4.3",
