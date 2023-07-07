@@ -66,6 +66,9 @@ function ContactForm() {
       { confirmationSuccess && <ResultSuccess />}
       {confirmationOther && <ResultOther />}
       <form id="contactForm" onSubmit={submitRequest}>
+        <div id="downtimeMessage">
+          <span id="downtimeMessageText">Backend server-side host UNAVAILABLE</span>
+          <div id="downtimeFormSection">
         <label htmlFor="name">Name:</label>
         <br />
         <input type="text" id="name" name="name" placeholder="ENTER YOUR NAME" onChange={e => setName(e.target.value)}
@@ -93,6 +96,8 @@ function ContactForm() {
         />
         <br />
         <input id="submitBtn" type="submit" value="Submit" />
+</div>
+        </div>
         <br /><br />
         <div><span>Email: </span>Shalom.Dawit@Gmail.com</div>
         <div id="contact_links">
