@@ -99,7 +99,7 @@ function ContactForm() {
 </div>
         </div>
         <br /><br />
-        <div><span>Email: </span>Shalom.Dawit@Gmail.com</div>
+        <div id="formEmail"><span>Email: </span>Shalom.Dawit@Gmail.com</div>
         <div id="contact_links">
           <a href="https://www.linkedin.com/in/shalom-dawit-a0a5a4126"
             target="_blank" rel="noreferrer">
