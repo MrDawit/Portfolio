@@ -67,7 +67,7 @@ function ContactForm() {
       {confirmationOther && <ResultOther />}
       <form id="contactForm" onSubmit={submitRequest}>
         <div id="downtimeMessage">
-          <span id="downtimeMessageText">Serverside hosting UNAVAILABLE</span>
+          <span id="downtimeMessageText">Server-Side Hosting is UNAVAILABLE</span>
           <div id="downtimeFormSection">
         <label htmlFor="name">Name:</label>
         <br />
