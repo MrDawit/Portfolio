@@ -66,6 +66,18 @@ function ContactForm() {
       { confirmationSuccess && <ResultSuccess />}
       {confirmationOther && <ResultOther />}
       <form id="contactForm" onSubmit={submitRequest}>
+      <div id="formEmail"><span>Email: </span>Shalom.Dawit@Gmail.com</div>
+        <div id="contact_links">
+          <a href="https://www.linkedin.com/in/shalom-dawit-a0a5a4126"
+            target="_blank" rel="noreferrer">
+            <img className="contact_icon" alt="LinkedIn_Image" src={require("../../assets/img/icon-linkedin.png")} />
+          </a>
+          <br />
+
+          <a href={"https://github.com/MrDawit"} target="_blank" rel="noreferrer">
+            <img className="contact_icon" alt="Github_Image" src={require("../../assets/img/github-logo.png")} />
+          </a>
+        </div>
         <div id="downtimeMessage">
           <span id="downtimeMessageText">Server-Side Hosting is UNAVAILABLE</span>
           <div id="downtimeFormSection">
@@ -99,18 +111,7 @@ function ContactForm() {
 </div>
         </div>
         <br /><br />
-        <div id="formEmail"><span>Email: </span>Shalom.Dawit@Gmail.com</div>
-        <div id="contact_links">
-          <a href="https://www.linkedin.com/in/shalom-dawit-a0a5a4126"
-            target="_blank" rel="noreferrer">
-            <img className="contact_icon" alt="LinkedIn_Image" src={require("../../assets/img/icon-linkedin.png")} />
-          </a>
-          <br />
-
-          <a href={"https://github.com/MrDawit"} target="_blank" rel="noreferrer">
-            <img className="contact_icon" alt="Github_Image" src={require("../../assets/img/github-logo.png")} />
-          </a>
-        </div>
+        
       </form>
     </>
   );
